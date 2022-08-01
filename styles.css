@@ -1,0 +1,27 @@
+td {
+    width: 70px;
+    height: 50px;
+    font-size: x-large;
+}
+
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+#scoreBoard {
+    text-align: center;
+    margin-top: -300px;
+}
+
+#board {
+    text-align: center;
+}
+
+#score {
+    margin-left: auto;
+    margin-right: 50px;
+}
